@@ -1,4 +1,0 @@
-readme.txt
-print"naresh is a good boy"
-print"naresh is brave person"
-print"naresh is a hero"
