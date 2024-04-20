@@ -12,3 +12,12 @@ git add <file-name>
 
 *
 *push the changes to Github/central repo
+  
+
+
+  .......
+
+  ....
+
+  echo "this is naresh from kurnool"
+  
