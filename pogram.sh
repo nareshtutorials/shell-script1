@@ -1,1 +1,4 @@
-echo "naresh is a good boy"
+#!/bin/bash
+
+echo "I added a file"
+
